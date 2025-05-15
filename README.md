@@ -16,8 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
  
 The interface of the application is 
-![Screen 1](assests/images/screen1.jpg)
+![Screen 1](assests/images/Screen1.jpg)
 
-![Screen 2](assests/images/screen2.jpg)
+![Screen 2](assests/images/Screen2.jpg)
 
-![Screen 3](assests/images/screen3.jpg)
+![Screen 3](assests/images/Screen3.jpg)
